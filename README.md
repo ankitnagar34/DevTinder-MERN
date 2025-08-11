@@ -30,6 +30,7 @@ https://github.com/user-attachments/assets/f741a729-1582-403e-8b6e-d13eb70b76e6
 - **Smart Matching**: Swipe through curated developer profiles
 - **Real-time Chat**: Connect and collaborate with your matches
 - **Connection Management**: Manage your network of developer connections
+- **Fully Responsive**: Optimized for seamless experience on phones, tablets, and desktops
 
 ### 🔐 Authentication & Security
 - Email/Password authentication
@@ -321,7 +322,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/devtinder/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/devtinder/discussions)
-- **Email**: support@devtinder.com
+- **Email**: aryanjstar3@gmail.com
 
 ---
 
