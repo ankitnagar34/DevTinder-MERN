@@ -1,5 +1,17 @@
 # 🔥 DevTinder - Developer Networking Platform
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-18.3.1-61dafb.svg)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-20.x-339933.svg)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-4.x-000000.svg)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-7.x-47A248.svg)](https://www.mongodb.com/)
+[![Azure](https://img.shields.io/badge/Azure-Cloud-0078d4.svg)](https://azure.microsoft.com/en-us)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+DevTinder is a modern platform for developers to **connect, collaborate, and build together**.  
+Whether you’re looking for teammates for a hackathon, contributors for your open-source project,  
+or co-founders for your next startup idea — DevTinder makes it easy to find the right people.
+
 ### 🎬 Video Walkthrough  
 See DevTinder in action!
 
