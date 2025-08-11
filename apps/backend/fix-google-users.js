@@ -7,7 +7,7 @@ async function fixGoogleUsers() {
 
 		const DB_CONNECTION_SECRET =
 			process.env.DB_CONNECTION_SECRET ||
-			"mongodb+srv://aryanjstar3:WY9uDHCSDf9ZJeqN@cluster0.xnxqru3.mongodb.net/devtinder?retryWrites=true&w=majority&appName=Cluster0";
+			"mongodb+srv://username:password@cluster0.xnxqru3.mongodb.net/devtinder?retryWrites=true&w=majority&appName=Cluster0";
 
 		await mongoose.connect(DB_CONNECTION_SECRET);
 		console.log("✅ Connected to database");
