@@ -22,7 +22,11 @@ See DevTinder in action!
 https://github.com/user-attachments/assets/f741a729-1582-403e-8b6e-d13eb70b76e6
 
 <p align="center">
-  <strong>Swipe, match and collaborate with developers. Find teammates for hackathons, side-projects and startups.</strong>
+  ▶️ Prefer YouTube? <a href="https://youtu.be/t_e-CtLxn_Q">Watch it here</a>
+</p>
+
+<p align="center">
+  <strong>Swipe, match, and collaborate with developers. Find teammates for hackathons, side projects, and startups.</strong>
 </p>
 
 <p align="center">
