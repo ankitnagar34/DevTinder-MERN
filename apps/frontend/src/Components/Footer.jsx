@@ -18,7 +18,7 @@ const Footer = () => {
 					<br />
 					Connect • Code • Collaborate
 					<br />
-					Made With ❤️ By Aryan Jaiswal
+					Made With ❤️ By Ankit Nagar
 				</p>
 				<p className="mt-2">
 					Copyright © {new Date().getFullYear()} - All rights reserved
@@ -42,7 +42,7 @@ const Footer = () => {
 						</svg>
 					</a>
 					<a
-						href="https://linkedin.com/in/aryanjstar"
+						href="https://www.linkedin.com/in/ankit-nagar-8b0b13253/"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
@@ -57,7 +57,7 @@ const Footer = () => {
 						</svg>
 					</a>
 					<a
-						href="https://github.com/aryanjstar"
+						href="https://github.com/ankitnagar34"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
